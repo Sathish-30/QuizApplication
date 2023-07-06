@@ -24,4 +24,4 @@
 
 ### Post Request
 
-![Post Request](C:\Java\Programs\Quiz_Application\Api\req1)
+![Post Request](./Api/req1.png)
