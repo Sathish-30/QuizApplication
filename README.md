@@ -28,19 +28,19 @@
 ![Post Request](./Api/req1.png)
 
 
-## Get Request
+### Get Request
 
 
 ![Get Request](./Api/req2.png)
 
 
-# Delete Request
+### Delete Request
 
 
 ![Delete Request](./Api/req3.png)
 
 
-# Post and Get Request in [Quiz middleware]
+### Post and Get Request in [Quiz middleware]
 
 
 ![Delete Request](./Api/req4.png)
